@@ -6,4 +6,12 @@
 2. 一个模块一个模块地抄，记笔记
 3. 自己从头到尾实现一遍
 
-day01
+# 功能列表
+- [X] sign-in, sign-out
+- [ ] prompt module
+  - [ ] create prompt
+  - [ ] Search for a tag or a username
+  - [ ] 点击 copy prompt
+  - [ ] 点击 tag，filter tag
+- [ ] 首页优化
+- [ ] mobile auto layout
