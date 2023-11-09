@@ -1,17 +1,12 @@
-准备把 Next.js 学起来
-先跟着视频学一个小练习，有个基本感觉
-源码： https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing
+Next.js 学习
+跟着视频学个小练习，有基本感觉
+course link: [link](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing)
 
-1. 先把项目运行起来，划分功能模块
-2. 一个模块一个模块地抄，记笔记
-3. 自己从头到尾实现一遍
+1. 运行项目，划分功能模块 todo list
+2. 逐个实现，记笔记
+3. 从头到尾实现一遍
+4. 进行一些改写
 
-# 功能列表
-- [X] sign-in, sign-out
-- [ ] prompt module
-  - [ ] create prompt
-  - [ ] Search for a tag or a username
-  - [ ] 点击 copy prompt
-  - [ ] 点击 tag，filter tag
-- [ ] 首页优化
-- [ ] mobile auto layout
+# log
+- 2023.11.07 sign-in, sign-out
+- 2023.11.09 add database, register user to db, format doc
